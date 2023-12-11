@@ -1,7 +1,7 @@
 import styles from "../style";
-import image from '../assets/games.png';
-import image2 from '../assets/web.png';
-import image3 from '../assets/mobile.png';
+import image from '../assets/games.webp';
+import image2 from '../assets/web.webp';
+import image3 from '../assets/mobile.webp';
 import { useSpring, animated } from '@react-spring/web';
 
 const Products = () => {

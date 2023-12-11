@@ -2,7 +2,7 @@
 import  facebook from "../assets/facebook.svg";
 import  instagram from "../assets/instagram.svg";
 
-import  dialog from "../assets/dialog.jpg";
+import  dialog from "../assets/virgo_logo.png";
 
 
 export const navLinks = [

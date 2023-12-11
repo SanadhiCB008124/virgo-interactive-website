@@ -1,7 +1,7 @@
 import styles from "../style";
 import React, { useEffect, useState } from "react";
 
-import image from "../assets/header.png";
+import image from "../assets/header.webp";
 
 
 

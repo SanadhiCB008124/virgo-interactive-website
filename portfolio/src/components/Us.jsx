@@ -1,8 +1,8 @@
 import styles from "../style";
-import aadil from '../assets/aadil.jpeg';
-import hirundya from '../assets/hirundya.jpeg';
-import yasiru from '../assets/yasiru.jpeg'
-import sanadhi from '../assets/sanadhi.jpeg'
+import aadil from '../assets/aadil.webp';
+import hirundya from '../assets/hirundya.webp';
+import yasiru from '../assets/yasiru.webp'
+import sanadhi from '../assets/sanadhi.webp'
 
 const Us = () => (
     <div className="">
